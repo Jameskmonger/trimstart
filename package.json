@@ -1,0 +1,25 @@
+{
+  "name": "trimstart",
+  "version": "1.0.0",
+  "description": "Trim the start of a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "modunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameskmonger/trimstart.git"
+  },
+  "keywords": [
+    "trim",
+    "start",
+    "string",
+    "manipulation"
+  ],
+  "author": "James Monger <jameskmonger@hotmail.co.uk> (http://jamesmonger.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jameskmonger/trimstart/issues"
+  },
+  "homepage": "https://github.com/Jameskmonger/trimstart#readme"
+}
